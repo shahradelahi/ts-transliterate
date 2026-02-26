@@ -78,11 +78,11 @@ For more information, please see the [API docs](https://www.jsdocs.io/package/@s
 
 | Library                     | hz             | min    | max    | mean   | p99    | rme    |
 | :-------------------------- | :------------- | :----- | :----- | :----- | :----- | :----- |
-| **@se-oss/transliterate**   | **415,645.80** | 0.0022 | 0.1262 | 0.0024 | 0.0037 | ±0.18% |
-| transliteration             | 443,355.83     | 0.0020 | 0.2110 | 0.0023 | 0.0033 | ±0.22% |
-| @sindresorhus/transliterate | 2,110.54       | 0.4552 | 0.6961 | 0.4738 | 0.5709 | ±0.30% |
+| **@se-oss/transliterate**   | **411,035.42** | 0.0022 | 0.5687 | 0.0024 | 0.0039 | ±0.35% |
+| transliteration             | 413,918.42     | 0.0020 | 3.7193 | 0.0024 | 0.0043 | ±1.47% |
+| @sindresorhus/transliterate | 275,554.28     | 0.0030 | 0.5995 | 0.0036 | 0.0063 | ±0.37% |
 
-> **Result:** @se-oss/transliterate is **196.93x faster** than @sindresorhus/transliterate.
+> **Result:** @se-oss/transliterate is **1.49x faster** than @sindresorhus/transliterate.
 
 _Benchmark script: [`bench/index.bench.ts`](bench/index.bench.ts)_
 

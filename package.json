@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/transliterate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "High-performance, strictly typed transliteration library with support for Unicode normalization, smart casing, and multiple scripts.",
   "keywords": [
     "transliterate",
